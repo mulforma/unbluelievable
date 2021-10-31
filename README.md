@@ -7,5 +7,6 @@ If your answer is yes, You can use this theme.
 \- Dr\. Not David
 
 ## **Demo:**
+(Image not loading? [Click here](https://sv1.picz.in.th/images/2021/10/31/uPKHgR.png)
 
 ![Workstation](https://sv1.picz.in.th/images/2021/10/31/uPKHgR.png)
