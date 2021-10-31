@@ -6,7 +6,7 @@
     "repository": {
         "github": "https://github.com/yalright/unbluelievable"
     },
-    "icon": "public/heliopause.png",
+    "icon": "public/heliosphere.png",
     "version": "0.0.3",
     "engines": {
         "vscode": "^1.61.0"
