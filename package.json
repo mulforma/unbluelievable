@@ -1,0 +1,25 @@
+{
+    "name": "unbluelievable",
+    "displayName": "UnBlueLievable!",
+    "description": "A theme for blue lovers, serious blue lovers.",
+    "publisher": "Yalright",
+    "repository": {
+        "github": "https://github.com/yalright/unbluelievable"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "UnBlueLievable!",
+                "uiTheme": "vs-dark",
+                "path": "./themes/UnBlueLievable!-color-theme.json"
+            }
+        ]
+    }
+}

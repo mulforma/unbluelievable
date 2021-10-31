@@ -1,0 +1,17 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "themes": {
+      "name": "themes",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    }
+  },
+  "files": {
+    "README": 0,
+    "CHANGELOG": 1,
+    "vsc-extension-quickstart": 2
+  }
+}
